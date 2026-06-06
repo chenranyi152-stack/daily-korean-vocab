@@ -36,3 +36,7 @@ https://daily-korean-vocab.vercel.app/
   mobile:   <img width="1179" height="2556" alt="mobile" src="https://github.com/user-attachments/assets/bfbe71cc-ae98-4bb1-a72b-aeef350b7699" />
   computer:<img width="1801" height="1002" alt="图片22" src="https://github.com/user-attachments/assets/7fe5c015-c700-4a5d-8991-9bc580af8557" />
   <img width="1802" height="997" alt="图片444" src="https://github.com/user-attachments/assets/e6e77703-091d-49b1-ac8b-bcd67f51d4dd" />
+
+ 
+  8. 향후 계획 / 未来规划
+기능 확장: 더 많은 어휘 데이터베이스 추가 및 학습 통계 시각화 구현. 未来将扩充词汇库，并增加学习数据可视化功能。
